@@ -1,20 +1,82 @@
 [
 	{
-		"name": "My wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
+		"name": "001",
+		"author": "Annie Spratt",
+		"url": "https://www.dropbox.com/s/xojjhmgez7vfqwu/annie%20spratt.png?dl=0",
+		"thumbnail": "https://www.dropbox.com/s/s765lfdhw32qszt/annie%20spratt.png?dl=0",
 		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1280 x 720 px",
-		"copyright": "CreativeCommons Attribution-ShareALike"
+		"copyright": "Unsplash"
 	},
 	{
-		"name": "My other wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
+		"name": "002",
+		"author": "Billy Williams",
+		"url": "https://www.dropbox.com/s/sotvrpw5hsffts8/billy%20williams.png?dl=0",
+		"thumbnail": "https://www.dropbox.com/s/8gbw32yvqsgr0zz/billy%20williams.png?dl=0",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "003",
+		"author": "Brandon Green",
+		"url": "https://www.dropbox.com/s/kg30o66g8boko40/brandon%20green.png?dl=0",
+		"thumbnail": "https://www.dropbox.com/s/g0e1et8mj6ahm79/brandon%20green.png?dl=0",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "004",
+		"author": "Darkness",
+		"url": "https://www.dropbox.com/s/1g1ifva9etbfypv/darkness.png?dl=0",
+		"thumbnail": "https://www.dropbox.com/s/8s82mgbawcmynsi/darkness.png?dl=0",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "005",
+		"author": "Easton Oliver",
+		"url": "https://www.dropbox.com/s/a6boyv11v4749um/easton%20oliver.png?dl=0",
+		"thumbnail": "https://www.dropbox.com/s/kzf96gx2vjhg4sn/easton%20oliver.png?dl=0",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "006",
+		"author": "Gautier Salles",
+		"url": "https://www.dropbox.com/s/8q2aws7tazfktq1/gautier%20salles.png?dl=0",
+		"thumbnail": "https://www.dropbox.com/s/u1nr9602gmawkt0/gautier%20salles.png?dl=0",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "007",
+		"author": "Joshua Fuller",
+		"url": "https://www.dropbox.com/s/03vreymlyoqjjtj/joshua%20fuller.png?dl=0",
+		"thumbnail": "https://www.dropbox.com/s/3awiwl1fxgf1qcg/joshua%20fuller.png?dl=0",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "008",
+		"author": "Mitchell Mccleary",
+		"url": "https://www.dropbox.com/s/umdokwyh9bqmcu5/mitchell%20mccleary.png?dl=0",
+		"thumbnail": "https://www.dropbox.com/s/7t7f93v33n3o6k3/mitchell%20mccleary.png?dl=0",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "009",
+		"author": "Mitchell Mccleary",
+		"url": "https://www.dropbox.com/s/slbatfss9nvqh3c/mitchell%20mccleary1.png?dl=0",
+		"thumbnail": "https://www.dropbox.com/s/z5w88c9mfe5zr1x/mitchell%20mccleary1.png?dl=0",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "010",
+		"author": "Thomas Bjornstad",
+		"url": "https://www.dropbox.com/s/zavu4tp5uatzz9x/thomas%20bjornstad.png?dl=0",
+		"thumbnail": "https://www.dropbox.com/s/2nijc9jhyzd1hfs/thomas%20bjornstad.png?dl=0",
+		"downloadable": true,
+		"copyright": "Unsplash"
 	}
 ]
