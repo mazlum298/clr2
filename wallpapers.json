@@ -78,5 +78,85 @@
 		"thumbnail": "https://raw.githubusercontent.com/mazlum298/clr2/master/thomas%20bjornstad.png",
 		"downloadable": true,
 		"copyright": "Unsplash"
+	},
+	{
+		"name": "011",
+		"author": "Antony Xia",
+		"url": "https://raw.githubusercontent.com/mazlum298/clr2/version2/antony%20xia.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/mazlum298/clr2/version2/antony%20xia.jpg",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "012",
+		"author": "Carlos Dominguez",
+		"url": "https://raw.githubusercontent.com/mazlum298/clr2/version2/carlos%20dominguez.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/mazlum298/clr2/version2/carlos%20dominguez%20kopya.JPG",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "013",
+		"author": "Dan Cook",
+		"url": "https://raw.githubusercontent.com/mazlum298/clr2/version2/dan%20cook.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/mazlum298/clr2/version2/dan%20cook%20kopya.JPG",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "014",
+		"author": "David Beatz",
+		"url": "https://raw.githubusercontent.com/mazlum298/clr2/version2/david%20beatz.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/mazlum298/clr2/version2/david%20beatz%20kopya.JPG",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "015",
+		"author": "Joel Jasmin Forestbird",
+		"url": "https://raw.githubusercontent.com/mazlum298/clr2/version2/joel%20jasmin%20forestbird.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/mazlum298/clr2/version2/joel%20jasmin%20forestbird%20kopya.JPG",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "016",
+		"author": "Josh Rose",
+		"url": "https://raw.githubusercontent.com/mazlum298/clr2/version2/josh%20rose.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/mazlum298/clr2/version2/josh%20rose%20kopya.JPG",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "017",
+		"author": "Joshua Rawson Harris",
+		"url": "https://raw.githubusercontent.com/mazlum298/clr2/version2/joshua%20rawson%20harris.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/mazlum298/clr2/version2/joshua%20rawson%20harris%20kopya.JPG",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "018",
+		"author": "Savannah Walters",
+		"url": "https://raw.githubusercontent.com/mazlum298/clr2/version2/savannah%20walters.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/mazlum298/clr2/version2/savannah%20walters%20kopya.JPG",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "019",
+		"author": "Steve Halama",
+		"url": "https://raw.githubusercontent.com/mazlum298/clr2/version2/steve%20halama.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/mazlum298/clr2/version2/steve%20halama%20kopya.JPG",
+		"downloadable": true,
+		"copyright": "Unsplash"
+	},
+	{
+		"name": "020",
+		"author": "Vince Fleming",
+		"url": "https://raw.githubusercontent.com/mazlum298/clr2/version2/vince%20fleming.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/mazlum298/clr2/version2/vince%20fleming%20kopya.JPG",
+		"downloadable": true,
+		"copyright": "Unsplash"
 	}
 ]
